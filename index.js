@@ -67,7 +67,7 @@ exports.decorateTerm = function (Term, {React}) {
           const textNode = document.createElement('span');
           textNode.textContent = `${text} `;
 
-          // if first word or first after a pipe, highlight as command
+          // If first word or first after a pipe, highlight as command
           if (index === 0 || isOperator(originalTextContent[index - 1])) {
             textNode.className = 'command';
           }
