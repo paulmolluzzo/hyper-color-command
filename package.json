@@ -17,6 +17,10 @@
   ],
   "author": "Paul Molluzzo <paul@molluzzo.com> (https://paul.molluzzo.com)",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/paulmolluzzo/hyper-color-command.git"
+  },
   "devDependencies": {
     "xo": "^0.18.0"
   },
