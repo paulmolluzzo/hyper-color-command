@@ -2,7 +2,7 @@
 
 Colorize your command line in [Hyper](https://hyper.is) with syntax highlighting for commands, arguments, flags, files, and operators.
 
-![](./screenshot.png)
+![](./demo.gif)
 
 # Installation
 
