@@ -1,0 +1,29 @@
+{
+  "name": "hyper-color-command",
+  "version": "1.0.0",
+  "description": "Colorized syntax highlighting for the command line in Hyper",
+  "main": "index.js",
+  "scripts": {
+    "test": "xo"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "hyper",
+    "color",
+    "command line",
+    "syntax highlighting"
+  ],
+  "author": "Paul Molluzzo <paul@molluzzo.com> (https://paul.molluzzo.com)",
+  "license": "MIT",
+  "devDependencies": {
+    "xo": "^0.18.0"
+  },
+  "xo": {
+    "envs": [
+      "browser"
+    ],
+    "space": true
+  }
+}
